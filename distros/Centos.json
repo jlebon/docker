@@ -13,6 +13,7 @@
       "  glibc-headers \\",
       "  golang-googlecode-sqlite-devel \\",
       "  kernel-devel \\",
+      "  libaudit-devel \\",
       "  libcap-devel \\",
       "  libvirt-client \\",
       "  libguestfs-tools \\",
